@@ -1,4 +1,4 @@
-## welcome to my profile 😎
+## Welcome to my profile 😎
 ### My name is Edson Junior
 ### I'm a software engineering student 💻 
 

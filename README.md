@@ -1,6 +1,6 @@
 ## Welcome to my profile 😎
 ### My name is Edson Junior
-### I'm software engineering student 💻 
+### I'm software engineering student and Learning English. 💻 
 
 ### Professional contact: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-junior-78ab44167/)

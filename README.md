@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Welcome to my profile 
 ### 🧑‍💻 My name is Edson Junior
-###  💻 I'm software engineering student and fullstack development beginner.
+###  💻 I'm software engineering student and junior fullstack development.
 <h3>❤️ In love with technology</h3>
 
 ### Professional contact: 

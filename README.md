@@ -23,7 +23,7 @@
 <div style="display: inline_block">
   <img align="center" alt="LARAVEL" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</div><br>
+</div><br><br>
 
 ![Edson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior29&theme=blue-green) 
 

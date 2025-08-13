@@ -25,8 +25,6 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div><br><br>
 
-![Edson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior29&theme=blue-green) 
-
 ### Relational database
  <div style="display: inline_block"><br/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -39,3 +37,5 @@
 <div style="display: inline_block"><br/>
   <img align="center" alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
+![Edson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonJunior29&theme=blue-green) 
